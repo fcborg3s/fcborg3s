@@ -4,7 +4,7 @@
 💻 I'm a systems analyst
 📖 I’m currently learning programming.
 
-
+## About me
 
 ![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
