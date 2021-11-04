@@ -12,8 +12,6 @@
 ![Skype Badge](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)
 
 
-(https://github-readme-stats.vercel.app/api?username={fcborg3s})
-
 
 
 <!--
