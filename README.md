@@ -12,6 +12,9 @@
 ![Skype Badge](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)
 
 
+(https://github-readme-stats.vercel.app/api?username={fcborg3s})
+
+
 
 <!--
 **fcborg3s/fcborg3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
