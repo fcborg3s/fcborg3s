@@ -1,4 +1,10 @@
-### Hi there 👋, my name is Francisco
+# 😎 Hello World!
+### my name is Francisco.
+
+💻 I'm a systems analyst
+📖 I’m currently learning programming.
+
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
 <!--
 **fcborg3s/fcborg3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
